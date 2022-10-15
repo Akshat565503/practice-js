@@ -1,4 +1,4 @@
-Plus Minus in hackerrank
+//Plus Minus in hackerrank
 
 let positive = arr.filter(number => number > 0).length / arr.length;
     let negative = arr.filter(number => number < 0).length / arr.length;;
@@ -9,7 +9,7 @@ let positive = arr.filter(number => number > 0).length / arr.length;
 *******************************************************************************************
 *******************************************************************************************
 
-mini max 
+//mini max 
 
 function miniMaxSum(arr) {
     let sum = arr.reduce((a, b) => a + b);
@@ -21,7 +21,7 @@ function miniMaxSum(arr) {
 ***********************************************************************************************
 *********************************************************************************************
 
-time conversion
+//time conversion
 
 function timeConversion(s) {
     
