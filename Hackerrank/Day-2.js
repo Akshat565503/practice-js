@@ -1,4 +1,4 @@
-Lonely integer
+//Lonely integer
 
 function lonelyinteger(a) {
 
@@ -23,7 +23,7 @@ function lonelyinteger(a) {
 ******************************************************************************************
 ******************************************************************************************
 
-Diagonal matrix
+//Diagonal matrix
 
 function diagonalDifference(matrix) {
    
@@ -42,7 +42,11 @@ function diagonalDifference(matrix) {
 
 }
 
-Counting sort 1
+
+******************************************************************************************
+******************************************************************************************
+
+//Counting sort 1
 
 function countingSort(arr) {
     let size = arr.length < 101 ? arr.length : 100
